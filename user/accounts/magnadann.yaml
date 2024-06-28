@@ -1,0 +1,16 @@
+state: enabled
+email: margot.nadot@gmail.com
+fullname: 'Margot Nadot'
+title: Administrataire
+hashed_password: $2y$10$nXbDxArX5kjThM5NJWH91uBl.31CpAiAnuhsQPWMH2ZCIqbVNwLHS
+language: fr
+content_editor: default
+twofa_enabled: false
+twofa_secret: VL2WPFMF3QM6E7LILOWCERSPUJKCHOKV
+avatar: {  }
+access:
+  site:
+    login: true
+  admin:
+    login: true
+    super: true

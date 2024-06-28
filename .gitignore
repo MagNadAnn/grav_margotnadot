@@ -1,0 +1,13 @@
+# ignore TOUS les fichiers situés dans les dossiers suivants :
+/.github/
+/.phan/
+/assets/
+/backup/
+/bin/
+/cache/
+/images/
+/logs/
+/tmp/
+/vendor/
+/webserver-configs/
+/user/themes/quark/

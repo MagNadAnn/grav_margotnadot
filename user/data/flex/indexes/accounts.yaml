@@ -1,0 +1,9 @@
+version: '1.2'
+timestamp: 1719589867
+count: 1
+index:
+  magnadann:
+    storage_key: magnadann
+    storage_timestamp: 1719589867
+    key: magnadann
+    email: margot.nadot@gmail.com
