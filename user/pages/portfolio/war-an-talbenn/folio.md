@@ -1,16 +1,24 @@
 ---
-title: War an talbenn, vlog d'un poilu breton
-slug: 
+title: 'War an talbenn, vlog d''un poilu breton'
 date: '26-04-2022 13:00'
 taxonomy:
-    tag: [Motion design & Animation, Dessin, Identité visuelle]
-    technique: [Photoshop, Cintiq Pro, Adobe Character Animator, After Effect]
-    client: [Projet personnel]
+    tag:
+        - Dessin
+        - 'Identité visuelle'
+        - 'Motion design & Animation'
+    technique:
+        - 'Cintiq Pro'
+        - Photoshop
+        - 'After Effect'
+        - 'Adobe Character Animator'
+    client:
+        - 'Projet personnel'
 vignette: 10.jpg
-mission: Création visuelle et réalisation vidéo
+mission: 'Création visuelle et réalisation vidéo'
 liens:
-    - url:  https://www.youtube.com/watch?v=JYeIAbsQ0Lw
-      titre: Voir la vidéo
+    -
+        url: 'https://www.youtube.com/watch?v=JYeIAbsQ0Lw'
+        titre: 'Voir la vidéo'
 ---
 
 Loeiz le Bot est l'avatar de Loeiz Herrieu, Poête breton qui tint pendant toute la première guerre mondiale un journal. C'est un long texte captivant qui plonge ses lecteurices dans le terrible quotidien des tranchées et des déplacement de troupe.

@@ -2,3 +2,5 @@ title: 'Margot Nadot'
 author:
   name: 'Margot Nadot'
   email: 'margot.nadot@gmail.com'
+
+taxonomies: [tag, technique, client]
