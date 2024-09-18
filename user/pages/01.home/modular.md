@@ -13,4 +13,3 @@ content:
             - _rendezvous
             - _portfolio
 ---
-
