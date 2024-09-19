@@ -13,4 +13,4 @@ liens:
         titre: 'M''écrire'
 ---
 
-Pour se présenter, exposer votre besoin, répondre à vos questions...!!!
+Pour se présenter, exposer votre besoin, répondre à vos questions...
