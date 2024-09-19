@@ -1,9 +1,8 @@
 ---
-title: Bonjour
+title: 'Bonjour !'
 vignette: portrait-margot-nadot.jpg
+fond: clair
 ---
-
-Bonjour !
 
 Je m’appelle Margot Nadot,  
 Je suis travailleuse indépendante en coopérative  
