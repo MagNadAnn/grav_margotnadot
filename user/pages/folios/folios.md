@@ -1,6 +1,5 @@
 ---
 title: Portfolio
-slug: portfolio
 
 content:
     items:
