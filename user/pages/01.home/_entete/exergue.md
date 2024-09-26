@@ -1,7 +1,7 @@
 ---
 title: 'Bonjour !'
 vignette: portrait-margot-nadot.jpg
-fond: clair
+couleur: clair
 ---
 
 Je m’appelle Margot Nadot,  

@@ -1,0 +1,55 @@
+footer-liens21:
+  -
+    page: /home
+  -
+    page: /apropos
+  -
+    page: /tarifs
+  -
+    page: /contact
+  -
+    page: /engagement
+  -
+    page: /mentions
+  -
+    page: /home
+footer-image21: typo_margot-nadot_blanc.png
+footer-image21-legende: 'Texte Margot Nadot dessiné'
+theme-images:
+  user/themes/portfolio22/images/uploads/MN_jaune-100.png:
+    name: MN_jaune-100.png
+    full_path: MN_jaune-100.png
+    type: image/png
+    size: 1961
+    path: user/themes/portfolio22/images/uploads/MN_jaune-100.png
+  user/themes/portfolio22/images/uploads/typo_margot-nadot_blanc.png:
+    name: typo_margot-nadot_blanc.png
+    full_path: typo_margot-nadot_blanc.png
+    type: image/png
+    size: 1584
+    path: user/themes/portfolio22/images/uploads/typo_margot-nadot_blanc.png
+footer-logo11: MN_jaune-100.png
+fond-fonce1: fond-2connes.png
+footer-text11: null
+footer-text31: "<div class=\"columns is-multiline\">\n    <div class=\"column is-full-tablet is-half-widescreen\">\n        <div class=\"macaron fond-lumineux\">\n            <img class=\"fond-macaron\" src=\"http://localhost/grav_margotnadot/user/themes/portfolio22/images/uploads/rond_jaune-100.png\">\n            <figure><img src=\"http://localhost/grav_margotnadot/user/themes/portfolio22/images/uploads/picto_cookie.png\"></figure>\n            <p>Ce site ne collecte <br><strong class=\"est-surligne est-clair\">aucun cookie</strong>, ni aucune donnée personnelle. Il n’utilise aucun service tiers suceptible d’enregistrer votre navigation.</p>\n        </div>\n    </div>\n    <div class=\"column is-full-tablet is-half-widescreen\">\n        <div class=\"macaron fond-fonce\">\n            <img class=\"fond-macaron\" src=\"http://localhost/grav_margotnadot/user/themes/portfolio22/images/uploads/rond_vert.png\">\n            <figure><img src=\"http://localhost/grav_margotnadot/user/themes/portfolio22/images/uploads/picto_feuille.png\"></figure>\n            <p>Ce site est <strong class=\"est-surligne est-clair\">eco-conçu</strong>. <br>C’est à dire qu’il est optimisé pour être léger et consommer le moins de data possible.</p>\n        </div>\n    </div>\n</div>"
+footer-text21: null
+footer-liens23:
+  -
+    page: /comvulgarisation
+  -
+    page: /graphisme
+  -
+    page: /dessin
+  -
+    page: /uxui
+  -
+    page: /conseil
+clair1: '#FFFFFF'
+pale1: '#fff2d5'
+lumineux1: '#ffb605'
+fonce1: '#363636'
+fond-pale1: fond-Evolution.png
+footer-liens22:
+  -
+    url: 'https://magnad.blog/'
+    text: Blog
