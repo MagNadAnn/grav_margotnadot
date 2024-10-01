@@ -13,7 +13,7 @@ footer-liens21:
     page: /mentions
   -
     page: /home
-footer-image21: typo_margot-nadot_blanc.png
+footer-image21: logo-horizontal-pied-de-page.png
 footer-image21-legende: 'Texte Margot Nadot dessiné'
 theme-images:
   user/themes/portfolio22/images/uploads/MN_jaune-100.png:
@@ -28,8 +28,50 @@ theme-images:
     type: image/png
     size: 1584
     path: user/themes/portfolio22/images/uploads/typo_margot-nadot_blanc.png
-footer-logo11: MN_jaune-100.png
-fond-fonce1: fond-2connes.png
+  user/themes/portfolio22/images/uploads/fond-motif-pale.png:
+    name: fond-motif-pale.png
+    full_path: fond-motif-pale.png
+    type: image/png
+    size: 146887
+    path: user/themes/portfolio22/images/uploads/fond-motif-pale.png
+  user/themes/portfolio22/images/uploads/fond-motif-fonce.png:
+    name: fond-motif-fonce.png
+    full_path: fond-motif-fonce.png
+    type: image/png
+    size: 128143
+    path: user/themes/portfolio22/images/uploads/fond-motif-fonce.png
+  user/themes/portfolio22/images/uploads/picto_cookie.png:
+    name: picto_cookie.png
+    full_path: picto_cookie.png
+    type: image/png
+    size: 4384
+    path: user/themes/portfolio22/images/uploads/picto_cookie.png
+  user/themes/portfolio22/images/uploads/picto_feuille.png:
+    name: picto_feuille.png
+    full_path: picto_feuille.png
+    type: image/png
+    size: 5270
+    path: user/themes/portfolio22/images/uploads/picto_feuille.png
+  user/themes/portfolio22/images/uploads/rond_jaune-100.png:
+    name: rond_jaune-100.png
+    full_path: rond_jaune-100.png
+    type: image/png
+    size: 2572
+    path: user/themes/portfolio22/images/uploads/rond_jaune-100.png
+  user/themes/portfolio22/images/uploads/rond_vert.png:
+    name: rond_vert.png
+    full_path: rond_vert.png
+    type: image/png
+    size: 2466
+    path: user/themes/portfolio22/images/uploads/rond_vert.png
+  user/themes/portfolio22/images/uploads/logo-horizontal-barre-menu.png:
+    name: logo-horizontal-barre-menu.png
+    full_path: logo-horizontal-barre-menu.png
+    type: image/png
+    size: 1584
+    path: user/themes/portfolio22/images/uploads/logo-horizontal-barre-menu.png
+footer-logo11: logo-pied-de-page.png
+fond-fonce1: fond-motif-fonce.png
 footer-text11: null
 footer-text31: "<div class=\"columns is-multiline\">\n    <div class=\"column is-full-tablet is-half-widescreen\">\n        <div class=\"macaron fond-lumineux\">\n            <img class=\"fond-macaron\" src=\"http://localhost/grav_margotnadot/user/themes/portfolio22/images/uploads/rond_jaune-100.png\">\n            <figure><img src=\"http://localhost/grav_margotnadot/user/themes/portfolio22/images/uploads/picto_cookie.png\"></figure>\n            <p>Ce site ne collecte <br><strong class=\"est-surligne est-clair\">aucun cookie</strong>, ni aucune donnée personnelle. Il n’utilise aucun service tiers suceptible d’enregistrer votre navigation.</p>\n        </div>\n    </div>\n    <div class=\"column is-full-tablet is-half-widescreen\">\n        <div class=\"macaron fond-fonce\">\n            <img class=\"fond-macaron\" src=\"http://localhost/grav_margotnadot/user/themes/portfolio22/images/uploads/rond_vert.png\">\n            <figure><img src=\"http://localhost/grav_margotnadot/user/themes/portfolio22/images/uploads/picto_feuille.png\"></figure>\n            <p>Ce site est <strong class=\"est-surligne est-clair\">eco-conçu</strong>. <br>C’est à dire qu’il est optimisé pour être léger et consommer le moins de data possible.</p>\n        </div>\n    </div>\n</div>"
 footer-text21: null
@@ -48,8 +90,32 @@ clair1: '#FFFFFF'
 pale1: '#fff2d5'
 lumineux1: '#ffb605'
 fonce1: '#363636'
-fond-pale1: fond-Evolution.png
+fond-pale1: fond-motif-pale.png
 footer-liens22:
+  -
+    url: 'https://magnad.blog/'
+    text: Blog
+logo_topbar: logo-horizontal-barre-menu.png
+topbar_liens11:
+  -
+    page: /comvulgarisation
+  -
+    page: /graphisme
+  -
+    page: /dessin
+  -
+    page: /uxui
+topbar_liens21:
+  -
+    page: /apropos
+  -
+    page: /tarifs
+  -
+    page: /contact
+topbar_liens31:
+  -
+    page: /engagement
+topbar_liens22:
   -
     url: 'https://magnad.blog/'
     text: Blog
