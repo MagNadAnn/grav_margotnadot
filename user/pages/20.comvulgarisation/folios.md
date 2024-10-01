@@ -2,8 +2,6 @@
 title: Communication & Vulgarisation
 menu: Com & Vulgarisation
 slug: com-vulgarisation
-menuNavBar1: true
-menuFooter2: true
 chapeau: Pour vous, je conçois, j’organise, je rédige, je dessine, je schématise…  <br>Votre site web, votre nouvelle brochure, la présentation de votre société : <br>je vous aide à saisir l'essence de votre message pour <strong class="est-surligne">construire des récits limpides et lumineux</strong> !
 
 content:

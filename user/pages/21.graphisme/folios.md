@@ -1,8 +1,6 @@
 ---
 title: Graphisme
 slug: graphisme
-menuNavBar1: true
-menuFooter2: true
 chapeau: Optez pour une belle identité visuelle, forte, originale, durable et dessinée ! <br>Mes spécialités : la refonte de votre site web et la création de vos documents imprimés.
 
 content:

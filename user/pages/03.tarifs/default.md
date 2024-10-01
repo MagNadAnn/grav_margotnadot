@@ -1,8 +1,6 @@
 ---
 title: Tarifs
 slug: tarifs
-menuNavBar2: true
-menuFooter1: true
 colonnes: is-half
 ---
 

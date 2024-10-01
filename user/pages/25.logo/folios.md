@@ -1,7 +1,6 @@
 ---
 title: Logo
 slug: logo
-menuFooter2: true
 chapeau: Le logo, c’est l’image qui est sensée condenser toute votre identité. C’est lui mettre beaucoup de pression, le pauvre ! Surtout qu’il sera rarement affiché vraiment tout seul… 
 
 content:

@@ -2,8 +2,6 @@
 title: Engagement
 menu: Engagement écologique & social
 slug: engagement
-menuNavBar3: true
-menuFooter1: true
 ---
 
 <h2 class="title is-2">🌻 Écologie</h2>

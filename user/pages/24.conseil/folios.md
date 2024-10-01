@@ -1,7 +1,6 @@
 ---
 title: Conseil & Aide
 slug: conseil-aide
-menuFooter2: true
 chapeau: Quels investissements il est judicieux pour vous de faire en communication ?
 
 ---

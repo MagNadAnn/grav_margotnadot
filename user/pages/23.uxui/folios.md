@@ -1,8 +1,6 @@
 ---
 title: UX & UI
 slug: ux-ui
-menuNavBar1: true
-menuFooter2: true
 
 content:
     items:

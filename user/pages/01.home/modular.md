@@ -1,7 +1,6 @@
 ---
 title: 'Mon activité en bref'
 menu: Accueil
-menuFooter1: true
 content:
     items: '@self.modular'
     order:

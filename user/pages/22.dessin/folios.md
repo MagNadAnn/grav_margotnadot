@@ -1,8 +1,6 @@
 ---
 title: Dessin
 slug: dessin
-menuNavBar1: true
-menuFooter2: true
 
 content:
     items:

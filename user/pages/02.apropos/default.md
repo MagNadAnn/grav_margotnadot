@@ -2,8 +2,6 @@
 title: À propos
 menu: À propos/CV
 slug: a-propos
-menuNavBar2: true
-menuFooter1: true
 colonnes: is-half
 ---
 

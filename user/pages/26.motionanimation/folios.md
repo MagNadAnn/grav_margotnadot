@@ -1,7 +1,6 @@
 ---
 title: Motion design & Animation
 slug: motion-animation
-menuFooter2: true
 chapeau: Pour vous, je conçois <strong class="est-surligne">des vidéos didactiques ou narratives</strong> <br>à base de dessins, de textes et de sons.
 
 content:
