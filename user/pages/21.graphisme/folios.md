@@ -1,19 +1,20 @@
 ---
 title: Graphisme
 slug: graphisme
-chapeau: Optez pour une belle identité visuelle, forte, originale, durable et dessinée ! <br>Mes spécialités : la refonte de votre site web et la création de vos documents imprimés.
-
+chapeau: "Optez pour une belle identité visuelle, forte, originale, durable et dessinée\_!  \nMes spécialités\_: la refonte de votre site web et la création de vos documents imprimés."
 content:
-    items:
-        '@taxonomy.tag': [Identité visuelle]
     order:
         by: date
         dir: desc
     limit: 18
     pagination: true
+    items:
+        '@taxonomy':
+            tag:
+                - 'Identité visuelle'
 ---
 
-## Une identité visuelle, <br>c’est quoi ?
+## Une identité visuelle, <br>c’est quoi ?!
 
 C’est un ensemble de principes graphiques qu’on combine autant de fois qu’on veut pour habiller des supports de communication aux formats différents : un site, une brochure, une affiche, un logo, ou simplement une illustration ou un tableau.
 

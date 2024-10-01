@@ -4,7 +4,9 @@ slug: dessin
 
 content:
     items:
-        '@taxonomy.tag': Dessin
+        '@taxonomy':
+            tag:
+                - Dessin
     order:
         by: date
         dir: desc

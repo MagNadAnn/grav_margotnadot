@@ -1,15 +1,16 @@
 ---
-title: UX & UI
+title: 'UX & UI'
 slug: ux-ui
-
 content:
-    items:
-        '@taxonomy.tag': UX/UI
     order:
         by: date
         dir: desc
     limit: 18
     pagination: true
+    items:
+        '@taxonomy':
+            tag:
+                - UX/UI
 ---
 
 En tant qu’UX designer mon travail débute par une enquête approfondie auprès de vos différents publics : client·es, partenaires, salarié·es... Cette recherche initiale me permet de cerner besoins et enjeux, pour ensuite être une interlocutrice pertinente et ajustée tout au long du projet.

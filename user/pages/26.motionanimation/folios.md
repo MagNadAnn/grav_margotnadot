@@ -5,7 +5,9 @@ chapeau: Pour vous, je conçois <strong class="est-surligne">des vidéos didacti
 
 content:
     items:
-        '@taxonomy.tag': [Motion design & Animation]
+        '@taxonomy':
+            tag:
+                - "Motion design & Animation"
     order:
         by: date
         dir: desc

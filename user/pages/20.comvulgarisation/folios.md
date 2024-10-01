@@ -6,7 +6,9 @@ chapeau: Pour vous, je conçois, j’organise, je rédige, je dessine, je schém
 
 content:
     items:
-        '@taxonomy.tag': [Com/Vulgarisation]
+        '@taxonomy':
+            tag:
+                - "Com/Vulgarisation"
     order:
         by: date
         dir: desc

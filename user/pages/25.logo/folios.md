@@ -5,7 +5,9 @@ chapeau: Le logo, c’est l’image qui est sensée condenser toute votre identi
 
 content:
     items:
-        '@taxonomy.tag': [Logo]
+        '@taxonomy':
+            tag:
+                - Logo
     order:
         by: date
         dir: desc
