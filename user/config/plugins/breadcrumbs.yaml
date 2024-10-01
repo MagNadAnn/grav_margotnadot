@@ -5,4 +5,4 @@ include_home: true
 include_current: true
 icon_home: null
 icon_divider_classes: 'fa fa-angle-right'
-link_trailing: false
+link_trailing: true
