@@ -60,13 +60,6 @@ Pour vous donner une idée du travail réalisé et du coût, le budget de chaque
       <th class="has-text-centered">Montant HT approximatif</th>
     </tr>
   </thead>
-  <tfoot>
-    <tr>
-      <th>Projet complet</th>
-      <th class="has-text-centered">19 jours</th>
-      <th class="has-text-centered">9 500€</th>
-    </tr>
-  </tfoot>
   <tbody>
     <tr>
       <td>Identité visuelle dessinée</td>
@@ -84,4 +77,11 @@ Pour vous donner une idée du travail réalisé et du coût, le budget de chaque
       <td class="has-text-centered">2 500 €</td>
     </tr>
   </tbody>
+    <tfoot>
+    <tr>
+      <th>Projet complet</th>
+      <th class="has-text-centered">19 jours</th>
+      <th class="has-text-centered">9 500€</th>
+    </tr>
+  </tfoot>
 </table>

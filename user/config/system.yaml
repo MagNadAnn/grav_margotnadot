@@ -90,7 +90,7 @@ pages:
     - .git
     - .idea
   ignore_hidden: true
-  hide_empty_folders: false
+  hide_empty_folders: true
   url_taxonomy_filters: true
   frontmatter:
     process_twig: false

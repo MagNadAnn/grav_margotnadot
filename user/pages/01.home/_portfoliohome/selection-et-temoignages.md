@@ -108,9 +108,9 @@ colonnes:
         boutons:
             -
                 url: /com-vulgarisation
-                texte: + de travaux de com
-            - 
+                texte: '+ de travaux de com'
+            -
                 url: /ux-ui
-                texte: + de travaux d'UX/UI
+                texte: '+ de travaux d''UX/UI'
 ---
 

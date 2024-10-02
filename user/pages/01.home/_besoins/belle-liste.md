@@ -1,5 +1,5 @@
 ---
-title: 'De quoi avez-vous besoin ?!!'
+title: 'De quoi avez-vous besoin ?'
 titreImage: typo_de-quoi-avez-vous-besoin.png
 items:
     -

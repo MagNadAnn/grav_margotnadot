@@ -13,5 +13,6 @@ liens:
         titre: 'M''écrire'
 couleur: lumineux
 content: 'Pour se présenter, exposer votre besoin, répondre à vos questions...'
+vignetteLegende: 'Dessin représentant une femme souriante en pleine discussion'
 ---
 
