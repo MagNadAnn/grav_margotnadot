@@ -1,34 +1,35 @@
 ---
 title: Tarifs
 slug: tarifs
+maxwidth: is-max-desktop
 colonnes: is-half
 ---
 
+Tout ce qu'il y a à savoir sur mes conditions pour deviser, facturer  
+et sur ce qui est compris dans le prix.
+
+===
+
 ## Taux Jour
 
-<div class="message is-warning mt-5">
-<div class="message-body">
-<p><strong>Taux Journalier Moyen : 500 € HT</strong></p>
-<p>Mon travail est facturé dans le cadre ma coopérative Oxalis SCOP SA, avec la TVA, sans cotisation supplémentaire (du type Maison des artistes ou autres).</p>
-</div>
-</div>
+! **Taux Journalier Moyen : 500 € HT**, pas de facturation de TVA
+!
+! Mon entreprise est enregistrée à la Maison des Artistes, ce qui fait de vous un diffuseur.
+! En tant que diffuseur, vous devrez vous acquitter de deux contributions supplémentaires :
+! - une de 1 % de la rémunération brute qui m'est versée pour la Sécu 💚 ;
+! - une de 0,10 % au titre de la formation professionnelle 💛.
 
-Ce taux est ajusté en fonction des client·es et de longueur des missions.
+Ce taux est ajusté en fonction des clienz et de longueur des missions.
 
-Une fois une première mission réalisée, mon taux augmente d’un euro par heure et par année où je suis sollicitée, ceci afin de valoriser l’ancienneté et l’expérience de vos sujets.
-
+Une fois une première mission réalisée, mon taux augmente d’un euro par heure et par année où je suis sollicitæ, ceci afin de valoriser mon ancienneté qui augmente et l’expérience de vos sujets.
 
 ---
 
 ## Fichiers-source
 
-<div class="message is-success mt-5">
-<div class="message-body">
-📦 <strong>Je livre tous les fichiers-source</strong> au fur et à mesure de la mission. Ils sont compris dans le prix.
-</div>
-</div>
+!!!! 📦 **Je livre tous les fichiers-source** au fur et à mesure de la mission. Ils sont compris dans le prix.
 
-Les fichiers-source vous donnent la possibilité de reprendre le travail vous-même ou de le transmettre à un·e autre professionnel·les facilement.
+Les fichiers-source sont pour vous une **garantie d'autonomie et de liberté** ! Ils vous donnent la possibilité de reprendre le travail vous-même ou de le transmettre à un·e autre professionnel·les facilement.
 
 Sur demande, je peux aussi fournir de l’accompagnement à la prise en main de ces fichiers-source par vos soins, afin de vous rendre autonomes.
 
@@ -36,17 +37,11 @@ Sur demande, je peux aussi fournir de l’accompagnement à la prise en main de 
 
 ## Sur devis
 
-<div class="message is-warning mt-5">
-<div class="message-body">
-Je ne pratique pas de forfait ni d’offre standardisée : <strong>chaque mission fait l’objet d’une proposition sur mesure</strong>.
-</div>
-</div>
+! Je ne pratique pas de forfait ni d’offre standardisée : **chaque mission fait l’objet d’une proposition sur mesure**.
 
 Pour vous donner une idée du travail réalisé et du coût, le budget de chaque projet est affiché sur la page qui lui est dédiée.
 
-
 ---
-
 
 ## Exemple
 

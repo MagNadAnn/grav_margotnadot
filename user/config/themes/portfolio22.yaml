@@ -1,33 +1,18 @@
-footer-liens21:
-  -
-    page: /home
-  -
-    page: /apropos
-  -
-    page: /tarifs
-  -
-    page: /contact
-  -
-    page: /engagement
-  -
-    page: /mentions
-  -
-    page: /home
 footer-image21: logo-horizontal-pied-de-page.png
 footer-image21-legende: 'Texte Margot Nadot dessiné'
 theme-images:
-  user/themes/portfolio22/images/uploads/MN_jaune-100.png:
-    name: MN_jaune-100.png
-    full_path: MN_jaune-100.png
+  user/themes/portfolio22/images/uploads/logo-pied-de-page.png:
+    name: logo-pied-de-page.png
+    full_path: logo-pied-de-page.png
     type: image/png
     size: 1961
-    path: user/themes/portfolio22/images/uploads/MN_jaune-100.png
-  user/themes/portfolio22/images/uploads/typo_margot-nadot_blanc.png:
-    name: typo_margot-nadot_blanc.png
-    full_path: typo_margot-nadot_blanc.png
+    path: user/themes/portfolio22/images/uploads/logo-pied-de-page.png
+  user/themes/portfolio22/images/uploads/logo-horizontal-pied-de-page.png:
+    name: logo-horizontal-pied-de-page.png
+    full_path: logo-horizontal-pied-de-page.png
     type: image/png
     size: 1584
-    path: user/themes/portfolio22/images/uploads/typo_margot-nadot_blanc.png
+    path: user/themes/portfolio22/images/uploads/logo-horizontal-pied-de-page.png
   user/themes/portfolio22/images/uploads/fond-motif-pale.png:
     name: fond-motif-pale.png
     full_path: fond-motif-pale.png
@@ -45,7 +30,13 @@ theme-images:
     full_path: picto_cookie.png
     type: image/png
     size: 4384
-    path: user/themes/portfolio22/images/uploads/picto_cookie.png
+    path: user/themes/portfolio22/images/uploads/picto_a11y.png
+  user/themes/portfolio22/images/uploads/picto_a11y.png:
+    name: picto_a11y.png
+    full_path: picto_a11y.png
+    type: image/png
+    size: 4384
+    path: user/themes/portfolio22/images/uploads/picto_a11y.png
   user/themes/portfolio22/images/uploads/picto_feuille.png:
     name: picto_feuille.png
     full_path: picto_feuille.png
@@ -70,41 +61,50 @@ theme-images:
     type: image/png
     size: 1584
     path: user/themes/portfolio22/images/uploads/logo-horizontal-barre-menu.png
+  user/themes/portfolio22/images/uploads/rond_indigo.png:
+    name: rond_indigo.png
+    full_path: rond_indigo.png
+    type: image/png
+    size: 7246
+    path: user/themes/portfolio22/images/uploads/rond_indigo.png
 footer-logo11: logo-pied-de-page.png
-fond-fonce1: fond-motif-fonce.png
+fond-fonce: fond-motif-fonce.png
 footer-text11: null
-footer-text31: "<div class=\"columns is-multiline\">\n    <div class=\"column is-full-tablet is-half-widescreen\">\n        <div class=\"macaron fond-lumineux\">\n            <img class=\"fond-macaron\" src=\"http://localhost/grav_margotnadot/user/themes/portfolio22/images/uploads/rond_jaune-100.png\" aria-hidden=\"true\"  alt=\"null\">\n            <figure><img src=\"http://localhost/grav_margotnadot/user/themes/portfolio22/images/uploads/picto_cookie.png\" alt=\"Pictogramme représentant un cookie, clin d'oeil pour évoquer les cookies déposés par les sites sur les ordinateurs\"></figure>\n            <p>Ce site ne collecte <br><strong class=\"est-surligne est-clair\">aucun cookie</strong>, ni aucune donnée personnelle. Il n’utilise aucun service tiers suceptible d’enregistrer votre navigation.</p>\n        </div>\n    </div>\n    <div class=\"column is-full-tablet is-half-widescreen\">\n        <div class=\"macaron fond-fonce\">\n            <img class=\"fond-macaron\" src=\"http://localhost/grav_margotnadot/user/themes/portfolio22/images/uploads/rond_vert.png\" aria-hidden=\"true\"  alt=\"null\">\n            <figure><img src=\"http://localhost/grav_margotnadot/user/themes/portfolio22/images/uploads/picto_feuille.png\" alt=\"Pictogramme représentant une feuille de plante verte pour symboliser l'écologie\"></figure>\n            <p>Ce site est <strong class=\"est-surligne est-clair\">eco-conçu</strong>. <br>C’est à dire qu’il est optimisé pour être léger et consommer le moins de data possible.</p>\n        </div>\n    </div>\n</div>"
+footer-text31: "<div class=\"columns is-multiline\">\n    <div class=\"column is-full-mobile is-one-third-desktop\">\n        <div class=\"macaron fond-lumineux\">\n            <img class=\"fond-macaron\" src=\"http://localhost/grav_margotnadot/user/themes/portfolio22/images/uploads/rond_jaune-100.png\" aria-hidden=\"true\" alt=\"null\">\n            <figure aria-label=\"Pictogramme représentant un cookie, clin d'oeil pour évoquer les cookies déposés par les sites sur les ordinateurs\"><img src=\"http://localhost/grav_margotnadot/user/themes/portfolio22/images/uploads/picto_cookie.png\" aria-hidden=\"true\" alt=\"null\"></figure>\n            <p>Ce site ne collecte <br><strong class=\"est-surligne est-clair\">aucun cookie</strong>, ni aucune donnée personnelle. Il n’utilise aucun service tiers susceptible d’enregistrer votre navigation.</p>\n        </div>\n    </div>\n    <div class=\"column is-full-mobile is-one-third-desktop\">\n        <div class=\"macaron fond-fonce\">\n            <img class=\"fond-macaron\" src=\"http://localhost/grav_margotnadot/user/themes/portfolio22/images/uploads/rond_vert.png\" aria-hidden=\"true\"  alt=\"null\">\n            <figure aria-label=\"Pictogramme représentant une feuille de plante verte pour symboliser l'écologie\"><img src=\"http://localhost/grav_margotnadot/user/themes/portfolio22/images/uploads/picto_feuille.png\" aria-hidden=\"true\"  alt=\"null\"></figure>\n            <p>Ce site est <strong class=\"est-surligne est-clair\">eco-conçu</strong>. <br>C’est à dire qu’il est optimisé pour être léger et consommer le moins de data possible.</p>\n        </div>\n    </div>\n\t<div class=\"column is-full-mobile is-one-third-desktop\">\n        <div class=\"macaron fond-fonce\">\n            <img class=\"fond-macaron\" src=\"http://localhost/grav_margotnadot/user/themes/portfolio22/images/uploads/rond_indigo.png\" aria-hidden=\"true\" alt=\"null\">\n            <figure aria-label=\"Pictogramme représentant le terme A11y qui est une abbréviation du mot Accessibility car on retrouve la première et la dernière lettres et les 11 autres ne sont pas incluses\"><img src=\"http://localhost/grav_margotnadot/user/themes/portfolio22/images/uploads/picto_A11y.png\" aria-hidden=\"true\" alt=\"null\"></figure>\n            <p>Ce site applique les normes d’<strong class=\"est-surligne est-clair\">accessibilité</strong> numérique en vigueur. Si vous rencontrez une difficulté, faites m'en part !</p>\n        </div>\n    </div>\n</div>"
 footer-text21: null
-footer-liens23:
-  -
-    page: /comvulgarisation
-  -
-    page: /graphisme
-  -
-    page: /dessin
-  -
-    page: /uxui
-  -
-    page: /conseil
-clair1: '#FFFFFF'
-pale1: '#fff2d5'
-lumineux1: '#ffb605'
-fonce1: '#363636'
-fond-pale1: fond-motif-pale.png
+fond-pale: fond-motif-pale.png
 footer-liens22:
+  -
+    url: /
+    text: null
+  -
+    url: /a-propos
+    text: null
   -
     url: 'https://magnad.blog/'
     text: Blog
+  -
+    url: /contact
+    text: null
+  -
+    url: /mentions-legales
+    text: null
+  -
+    url: /rgpd
+    text: null
+  -
+    url: /plan-du-site
+    text: null
 logo_topbar: logo-horizontal-barre-menu.png
 topbar_liens11:
   -
-    page: /comvulgarisation
+    page: /home
   -
-    page: /graphisme
+    page: /home
   -
-    page: /dessin
+    page: /home
   -
-    page: /uxui
+    page: /home
 topbar_liens21:
   -
     page: /apropos
@@ -117,5 +117,75 @@ topbar_liens31:
     page: /engagement
 topbar_liens22:
   -
+    url: /a-propos
+    text: null
+  -
+    url: /tarifs
+    text: null
+  -
+    url: /contact
+    text: null
+  -
     url: 'https://magnad.blog/'
     text: Blog
+footer-liens21:
+  -
+    page: /home
+  -
+    page: /apropos
+  -
+    page: /engagement
+  -
+    page: /conseil
+  -
+    page: /tarifs
+  -
+    page: /contact
+  -
+    page: /mentions
+  -
+    page: /rgpd
+couleur:
+  clair: '#FFFFFF'
+  pale: '#fff2d5'
+  lumineux: '#ffcb08'
+  fonce: '#363636'
+footer-liens24:
+  -
+    url: /Com-Vulgarisation
+    text: null
+  -
+    url: /Dessin
+    text: null
+  -
+    url: '/Identité visuelle'
+    text: null
+  -
+    url: /Logo
+    text: null
+  -
+    url: '/Motion design & Animation'
+    text: null
+  -
+    url: /UX-UI
+    text: null
+  -
+    url: /conseil-aide
+    text: null
+topbar_liens12:
+  -
+    url: /Com-Vulgarisation
+    text: null
+  -
+    url: '/Identité visuelle'
+    text: null
+  -
+    url: /UX-UI
+    text: null
+  -
+    url: /Dessin
+    text: null
+topbar_liens32:
+  -
+    url: /engagement
+    text: null

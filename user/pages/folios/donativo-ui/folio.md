@@ -3,7 +3,7 @@ title: Donativo
 slug: donativo-ui
 date: '20-10-2020 13:00'
 taxonomy:
-    tag: [Com/Vulgarisation, UX/UI, Identité visuelle]
+    tag: [Com-Vulgarisation, UX-UI, Identité visuelle]
     technique: [Photoshop, Cintiq Pro, Illustrator, HTML, CSS, Wordpress]
     client: [Donativo]
 vignette: 12.jpg

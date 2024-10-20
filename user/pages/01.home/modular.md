@@ -13,3 +13,6 @@ content:
             - _portfolio
 ---
 
+La page d'accueil du site présente ce qu'on peut faire ensemble, tout simplement !
+
+===

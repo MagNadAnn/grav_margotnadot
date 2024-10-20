@@ -19,6 +19,7 @@ liens:
     -
         url: 'https://www.youtube.com/watch?v=JYeIAbsQ0Lw'
         titre: 'Voir la vidéo'
+vignetteLegende: 'Image tirée d''un instantané de la vidéo. On voit une main en gros plan net qui tend un paquet enveloppé et ficelé vers la caméra. L''arrière plan est flou. Le tout est dessiné. Les teintes sont plutôt terreuses.'
 ---
 
 Loeiz le Bot est l'avatar de Loeiz Herrieu, Poête breton qui tint pendant toute la première guerre mondiale un journal. C'est un long texte captivant qui plonge ses lecteurices dans le terrible quotidien des tranchées et des déplacement de troupe.

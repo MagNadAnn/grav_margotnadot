@@ -1,6 +1,6 @@
 ---
 title: L'Escapade <br>(parcours fleuri)
-menu: L'Escapade
+menu: L'Escapade, signalétique
 slug: donzy-signaletique
 date: '20-03-2022 13:00'
 taxonomy:

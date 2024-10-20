@@ -1,14 +1,10 @@
 ---
 title: Portfolio
-
 content:
     items:
-        '@self.children'
+        - '@self.children'
     order:
         by: date
         dir: desc
-    limit: 18
-    pagination: true
-
-chapeau: Tous mes travaux, du plus récent au plus ancien !
+    pagination: '1'
 ---

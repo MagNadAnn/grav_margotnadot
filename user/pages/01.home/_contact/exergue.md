@@ -1,8 +1,7 @@
 ---
 title: 'On prend rendez-vous ?'
-media_order: amanda-jaune-100.png
-vignette: amanda-jaune-100.png
-titreImage: typo_on-prend-RDV.png
+media_order: 'amanda-jaune-100.png,amanda-orange-200.png'
+vignette: amanda-orange-200.png
 fond: lumineux
 liens:
     -
@@ -13,6 +12,6 @@ liens:
         titre: 'M''écrire'
 couleur: lumineux
 content: 'Pour se présenter, exposer votre besoin, répondre à vos questions...'
-vignetteLegende: 'Dessin représentant une femme souriante en pleine discussion'
+vignetteLegende: 'Dessin représentant une personne souriante en pleine discussion'
 ---
 
